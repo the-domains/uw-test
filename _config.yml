@@ -6,9 +6,9 @@ color:
   saturation: 0.28762728883884847
   rhythmicContrast: 0.739225915633142
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#FFFFFF'
+    - '#282728'
+    - '#990B0A'
+    - '#147BA8'
+    - '#ADADAD'
 name: uw test
